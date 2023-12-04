@@ -1,17 +1,18 @@
                                               Hi 👋, I'm Seema Bhattarai
+                                              
                                                 A Frontend Developer 
 
 
- A Frontend Developer from✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently ...
+
+- 🔭 I’m currently studying at BCA(Bachelor in Computer Applications)
 - 🌱 I’m currently learning React Js
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me: ..
+- https://instagram.com/shima_bhattarai?igshid=MmVlMjlkMTBhMg%3D%3D&utm_source=qr
+- https://x.com/seemabhatt16392?s=21
+  
+
+
